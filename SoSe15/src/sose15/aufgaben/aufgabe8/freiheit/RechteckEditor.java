@@ -115,7 +115,7 @@ public class RechteckEditor extends JFrame{
 		canvas = new Canvas();
 		getContentPane().add(canvas, BorderLayout.CENTER);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setSize(460,660);
+		setSize(460,560);
 		setVisible(true);
 	}
 
